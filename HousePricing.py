@@ -17,7 +17,7 @@ boston = datasets.load_boston()
 dfboston = pd.DataFrame(boston.data, columns=boston.feature_names)
 target = pd.Series(boston.target)
 
-st.write("""  # Boston house pricing - SVR with Scikit Learn
+st.write("""  # Boston house pricing - SVR with Sklearn
 
 ## Data visualization
 
