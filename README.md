@@ -6,7 +6,9 @@ This project tries to show how easy is to create a streamlit app and share it to
 what I intended to do is create a model capable of predicting house prices in boston using the sklearn example datasets.
 <p align="center">
 <img src="https://media.giphy.com/media/1dyCXPI0w9sAZDxzIp/giphy.gif">
-  Preview
+
 </img>
 </p>
-
+<p align="center">
+  Preview
+</p>
